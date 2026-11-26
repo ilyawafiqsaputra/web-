@@ -1,0 +1,6 @@
+{
+  "name": "SIPus — Perpustakaan SMK Muhammadiyah Pakem",
+  "description": "Sistem Informasi Perpustakaan SMK Muhammadiyah Pakem untuk manajemen katalog buku, sirkulasi peminjaman dan pengembalian, kartu anggota digital, serta cetak struk denda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
